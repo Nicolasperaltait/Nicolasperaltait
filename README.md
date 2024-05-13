@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nicolasperaltait
+- 👋 Hi, I’m Nicolas
 - 👀 I’m interested in Linux
 - 🌱 I’m currently learning Scripting in Bash
 - 💞️ I’m looking to collaborate on ...
