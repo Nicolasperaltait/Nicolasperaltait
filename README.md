@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Nicolas
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning Scripting in Bash
+- 🌱 I’m currently learning Scripting in Bash and Python 
