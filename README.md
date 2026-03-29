@@ -200,7 +200,7 @@ Mi objetivo no es subir “mucho”, sino subir cosas que muestren:
 Podés encontrarme acá para seguir mi evolución técnica y mis proyectos.
 
 <!-- Reemplazar por tus links reales -->
-- LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/nicolas-peralta6/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nicolas-peralta6/)
 - GitHub: [@Nicolasperaltait](https://github.com/Nicolasperaltait)
 
 
