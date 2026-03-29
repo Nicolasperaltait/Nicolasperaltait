@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Automation-166534?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
----
+
 
 ## 🚀 Sobre mí
 
@@ -34,7 +34,7 @@ Trabajo sobre laboratorios y entornos técnicos donde priorizo:
 No me interesa “levantar cosas porque sí”.  
 Me interesa que queden **bien pensadas, controladas y entendibles**.
 
----
+
 
 ## 🧠 En qué estoy enfocado
 
@@ -47,7 +47,7 @@ Me interesa que queden **bien pensadas, controladas y entendibles**.
 - Runbooks y documentación operativa
 - Homelabs con criterio profesional
 
----
+
 
 ## 🛠️ Stack técnico
 
@@ -99,7 +99,7 @@ Me interesa que queden **bien pensadas, controladas y entendibles**.
 - Estandarización operativa
 - Arquitectura y troubleshooting
 
----
+
 
 ## 🧱 Proyecto destacado: Homelab
 
@@ -132,7 +132,6 @@ Uno de mis proyectos principales es un **homelab orientado a infraestructura y s
 - seguridad aplicada
 - documentación útil
 
----
 
 ## 🧭 Cómo trabajo
 
@@ -150,7 +149,7 @@ Mi enfoque suele ser bastante directo:
 - 🛡️ cambios controlados
 - 🧾 documentación como parte del sistema
 
----
+
 
 ## 📂 Tipo de proyectos que me interesa construir
 
@@ -163,7 +162,7 @@ Mi enfoque suele ser bastante directo:
 - scripts operativos
 - documentación técnica reutilizable
 
----
+
 
 ## 📌 Repositorios que vas a encontrar acá
 
@@ -183,7 +182,7 @@ Mi objetivo no es subir “mucho”, sino subir cosas que muestren:
 - limpieza
 - utilidad real
 
----
+
 
 ## 📚 Actualmente profundizando
 
@@ -193,7 +192,6 @@ Mi objetivo no es subir “mucho”, sino subir cosas que muestren:
 - resiliencia en homelab
 - DRP y continuidad operativa
 
----
 
 ## 🤝 Contacto
 
