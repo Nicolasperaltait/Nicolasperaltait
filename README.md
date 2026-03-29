@@ -200,7 +200,3 @@ Podés encontrarme acá para seguir mi evolución técnica y mis proyectos.
 <!-- Reemplazar por tus links reales -->
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/nicolas-peralta6/)
 - GitHub: [@Nicolasperaltait](https://github.com/Nicolasperaltait)
-
-
-Porque si algo no está documentado, tarde o temprano se transforma en folklore técnico.  
-Y el folklore técnico es divertido… hasta que toca resolverlo a las 03:17.
