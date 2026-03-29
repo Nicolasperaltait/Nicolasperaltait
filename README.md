@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Nicolas Peralta</h1>
+<h1 align="center">👋 Hola, soy Nicolas </h1>
 <h3 align="center">Cybersecurity & Infrastructure | Homelab Builder | IT Operations</h3>
 
 <p align="center">
