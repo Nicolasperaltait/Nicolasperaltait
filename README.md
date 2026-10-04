@@ -41,6 +41,7 @@ No es un laboratorio de prueba. Es **infraestructura productiva**: chica en esca
 | [Alerts That Matter](https://github.com/Nicolasperaltait/alerts-that-matter) | alertas, SIEM y controles que se verifican por su efecto |
 | [Backups That Don't Lie](https://github.com/Nicolasperaltait/backups-that-dont-lie) | backups medidos por su contenido y restauracion probada |
 | [Hypervisor as Control Plane](https://github.com/Nicolasperaltait/hypervisor-as-control-plane) | el hipervisor operado como plataforma productiva |
+| [SecOps in Production](https://github.com/Nicolasperaltait/secops-in-production) | SOC, SIEM, endurecimiento medido y lo que se decidio no hacer |
 
 Cada repo responde lo mismo: **cual era el problema, por que importaba, que se decidio, que salio mal y como se resolvio.**
 
