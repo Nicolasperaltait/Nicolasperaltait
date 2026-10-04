@@ -2,12 +2,13 @@
 <h3 align="center">Infrastructure & Security Operations · SecOps · Linux · SIEM / Wazuh</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SecOps-B91C1C?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Infrastructure-1F2937?style=for-the-badge&logo=proxmox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Observability-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zero_Trust-242424?style=for-the-badge&logo=tailscale&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backup_%26_DR-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SecOps-DC2626?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxYTUgNSAwIDAgMC01IDV2NEg1djEzaDE0VjEwaC0yVjZhNSA1IDAgMCAwLTUtNXptLTMgOVY2YTMgMyAwIDAgMSA2IDB2NHoiLz48L3N2Zz4%3D&logoColor=white" alt="SecOps" />
+  <img src="https://img.shields.io/badge/Infrastructure-2563EB?style=for-the-badge&logo=proxmox&logoColor=white" alt="Infrastructure" />
+  <img src="https://img.shields.io/badge/Linux-1F2937?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Observability-D97706?style=for-the-badge&logo=grafana&logoColor=white" alt="Observability" />
+  <img src="https://img.shields.io/badge/Zero_Trust-7C3AED?style=for-the-badge&logo=tailscale&logoColor=white" alt="Zero Trust" />
+  <img src="https://img.shields.io/badge/Backup_%26_DR-059669?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDRoMTh2N0gzem0wIDloMTh2N0gzem0xNC02LjVhMS41IDEuNSAwIDEgMCAwIC4wMXptMCA5YTEuNSAxLjUgMCAxIDAgMCAuMDF6Ii8%2BPC9zdmc%2B&logoColor=white" alt="Backup & DR" />
+  <img src="https://img.shields.io/badge/ISO_27001-1D4ED8?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02IDJoOWw1IDV2MTVINnptOCAxdjVoNU04IDEyaDEwdjEuNUg4em0wIDRoMTB2MS41SDh6Ii8%2BPC9zdmc%2B&logoColor=white" alt="ISO 27001" />
 </p>
 
 <p align="center"><b>Opero una infraestructura productiva propia, 24/7, con criterio de empresa:<br/>segmentada, monitoreada, respaldada y sin un solo puerto abierto a internet.</b></p>
