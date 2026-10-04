@@ -1,202 +1,74 @@
-<h1 align="center">👋 Hola, soy Nicolas </h1>
-<h3 align="center">Cybersecurity & Infrastructure | Homelab Builder | IT Operations</h3>
+<h1 align="center">Hola, soy Nicolas Peralta</h1>
+<h3 align="center">Infrastructure & Security Operations · SecOps · Linux · SIEM / Wazuh · ISO 27001</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Infrastructure-1F2937?style=for-the-badge&logo=serverfault&logoColor=white" />
+  <img src="https://img.shields.io/badge/SecOps-B91C1C?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infrastructure-1F2937?style=for-the-badge&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Homelab-0F766E?style=for-the-badge&logo=homeadvisor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monitoring-7C3AED?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-166534?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Observability-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zero_Trust-242424?style=for-the-badge&logo=tailscale&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backup_%26_DR-0F766E?style=for-the-badge" />
 </p>
 
+<p align="center"><b>Opero una infraestructura productiva propia, 24/7, con criterio de empresa:<br/>segmentada, monitoreada, respaldada y sin un solo puerto abierto a internet.</b></p>
 
+---
 
-## 🚀 Sobre mí
+## Lo que opero hoy
 
-Soy profesional orientado a **infraestructura, ciberseguridad y operación técnica**, con foco en construir entornos que sean:
+No es un laboratorio de prueba. Es **infraestructura productiva**: chica en escala, completa en piezas, y de ella dependen todos los dias el DNS, los backups, la seguridad y aplicaciones en uso real.
 
-- **seguros**
-- **observables**
-- **mantenibles**
-- **documentados**
-- **realmente utilizables**
+| Indicador | Resultado |
+|---|---|
+| Puertos entrantes abiertos | **0** |
+| Intentos no autorizados frenados por la politica de acceso en un solo incidente | **13.017** |
+| Exporters y sondas de disponibilidad monitoreados | **13** y **25**, alertas al telefono |
+| Agentes del SIEM activos | **8**, cero desconectados |
+| Verificaciones automaticas que mentian, detectadas y corregidas | **7** |
+| Recuperacion medida en pruebas de restauracion | **segundos** a **menos de 2 minutos** |
 
-Trabajo sobre laboratorios y entornos técnicos donde priorizo:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nicolasperaltait/homelab/main/docs/img/homepage-noc.png" width="90%" alt="Tablero de operaciones" />
+</p>
 
-- 🔐 seguridad por diseño  
-- 🌐 segmentación de red  
-- 📊 observabilidad y monitoreo  
-- 💾 backups y recuperación  
-- ⚙️ automatización operativa  
-- 🧾 documentación clara y reutilizable  
+## Proyectos
 
-No me interesa “levantar cosas porque sí”.  
-Me interesa que queden **bien pensadas, controladas y entendibles**.
+| Repo | De que trata |
+|---|---|
+| **[Homelab Prod](https://github.com/Nicolasperaltait/homelab)** | **La vista completa**: arquitectura, operacion y 8 casos reales |
+| [Zero Trust Remote Access](https://github.com/Nicolasperaltait/zero-trust-remote-access) | acceso remoto sin puertos abiertos y agentes de IA con minimo privilegio |
+| [Network Segmentation Playbook](https://github.com/Nicolasperaltait/network-segmentation-playbook) | segmentacion, DNS interno y que se filtro, que no y que se previno |
+| [Alerts That Matter](https://github.com/Nicolasperaltait/alerts-that-matter) | alertas, SIEM y controles que se verifican por su efecto |
+| [Backups That Don't Lie](https://github.com/Nicolasperaltait/backups-that-dont-lie) | backups medidos por su contenido y restauracion probada |
+| [Hypervisor as Control Plane](https://github.com/Nicolasperaltait/hypervisor-as-control-plane) | el hipervisor operado como plataforma productiva |
 
+Cada repo responde lo mismo: **cual era el problema, por que importaba, que se decidio, que salio mal y como se resolvio.**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nicolasperaltait/homelab/main/docs/img/grafana-salud.png" width="90%" alt="Salud de la infraestructura en Grafana" />
+</p>
 
-## 🧠 En qué estoy enfocado
+## Stack
 
-- Hardening de sistemas Linux
-- Infraestructura virtualizada
-- Redes y segmentación
-- Monitoreo centralizado
-- Backups locales y offsite cifrados
-- Acceso remoto seguro
-- Runbooks y documentación operativa
-- Homelabs con criterio profesional
+| Area | Herramientas |
+|---|---|
+| Virtualizacion y sistemas | Proxmox VE, Debian, Ubuntu Server, OpenMediaVault |
+| Seguridad y SecOps | Wazuh (SIEM), auditd, firewall por host, minimo privilegio, hardening |
+| Red y acceso | segmentacion por zonas, Tailscale con tailnet lock, Pi-hole, Nginx Proxy Manager |
+| Observabilidad | Prometheus, Grafana, Node Exporter, cAdvisor, blackbox, alertas por Telegram |
+| Contenedores | Docker, Portainer |
+| Codigo y automatizacion | Forgejo con CI, Bash, PowerShell, Python, agentes de IA con acceso acotado |
+| Backup y continuidad | backups por dominio, copia cifrada externa, pruebas de restauracion con RTO y RPO |
 
+## Como trabajo
 
+1. **Entender el problema real** antes de tocar nada.
+2. **Cambios con plan y rollback**, y evidencia de que funcionaron.
+3. **Probar lo que tiene que fallar**, no solo lo que tiene que andar.
+4. **Documentar** para no depender de la memoria de nadie.
+5. **Contar lo que salio mal.** Los errores documentados son la mitad del aprendizaje.
 
-## 🛠️ Stack técnico
+## Contacto
 
-### 🖥️ Sistemas y virtualización
-- Proxmox VE
-- Debian
-- Ubuntu Server
-- OpenMediaVault
-- Administración Linux
-
-### 🔐 Redes y seguridad
-- VLANs / segmentación lógica
-- WireGuard
-- UFW
-- Fail2ban
-- Wazuh
-- DNS interno
-- Reverse Proxy
-- Mínimo privilegio
-
-### 📦 Contenedores y servicios
-- Docker
-- Portainer
-- Nginx Proxy Manager
-- Pi-hole
-- Vaultwarden
-
-### 📈 Monitoreo y observabilidad
-- Prometheus
-- Grafana
-- Node Exporter
-- cAdvisor
-- Exporters varios
-- Alertas operativas
-
-### ⚙️ Backups y automatización
-- Bash scripting
-- rclone
-- Backups versionados
-- Offsite cifrado
-- Validación de integridad
-- Retención
-- Alertas por ejecución
-
-### 🧾 Documentación y operación
-- Runbooks
-- Procedimientos de recuperación
-- Documentación técnica
-- Estandarización operativa
-- Arquitectura y troubleshooting
-
-
-
-## 🧱 Proyecto destacado: Homelab
-
-Uno de mis proyectos principales es un **homelab orientado a infraestructura y seguridad**, pensado no solo para aprender, sino para practicar escenarios operativos reales.
-
-### 🎯 Objetivos del entorno
-- separar servicios por segmentos
-- reducir superficie de exposición
-- centralizar observabilidad
-- asegurar backups consistentes
-- documentar operación y recuperación
-- mantener una arquitectura clara y defendible técnicamente
-
-### 🧩 Componentes trabajados
-- **Proxmox** como base de virtualización
-- **OpenMediaVault** para storage y backups
-- **Docker VM** para servicios y observabilidad
-- **Wazuh** para seguridad y monitoreo
-- **Pi-hole** como DNS interno
-- **WireGuard** para acceso remoto seguro
-- **Grafana + Prometheus** para métricas y dashboards
-- **Nginx Proxy Manager** para publicación interna ordenada
-- **Backups locales + offsite cifrados** con validación y retención
-
-### ✅ Qué busco demostrar con este proyecto
-- criterio técnico
-- capacidad de diseño
-- troubleshooting real
-- visión operativa
-- seguridad aplicada
-- documentación útil
-
-
-## 🧭 Cómo trabajo
-
-Mi enfoque suele ser bastante directo:
-
-1. entender el problema real  
-2. simplificar la solución  
-3. automatizar donde aporta valor  
-4. documentar para no depender de memoria  
-
-### Principios que priorizo
-- 🔐 seguridad por diseño
-- 🧩 simplicidad operativa
-- 👀 observabilidad primero
-- 🛡️ cambios controlados
-- 🧾 documentación como parte del sistema
-
-
-
-## 📂 Tipo de proyectos que me interesa construir
-
-- laboratorios de ciberseguridad
-- entornos Linux administrables
-- redes segmentadas
-- monitoreo centralizado
-- backups robustos
-- plataformas internas seguras
-- scripts operativos
-- documentación técnica reutilizable
-
-
-
-## 📌 Repositorios que vas a encontrar acá
-
-En mi perfil vas a ver trabajo relacionado con:
-
-- 🏠 homelab e infraestructura
-- 🔐 seguridad y hardening
-- 📊 monitoreo y observabilidad
-- ⚙️ automatización
-- 🧾 runbooks y documentación
-- 🧪 pruebas técnicas y mejoras operativas
-
-Mi objetivo no es subir “mucho”, sino subir cosas que muestren:
-
-- estructura
-- criterio
-- limpieza
-- utilidad real
-
-
-
-## 📚 Actualmente profundizando
-
-- automatización operativa en Linux
-- hardening de infraestructura
-- observabilidad aplicada
-- resiliencia en homelab
-- DRP y continuidad operativa
-
-
-## 🤝 Contacto
-
-Podés encontrarme acá para seguir mi evolución técnica y mis proyectos.
-
-<!-- Reemplazar por tus links reales -->
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nicolas-peralta6/)
+- LinkedIn: [nicolas-peralta6](https://www.linkedin.com/in/nicolas-peralta6/)
 - GitHub: [@Nicolasperaltait](https://github.com/Nicolasperaltait)
