@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Nicolas Peralta</h1>
-<h3 align="center">Infrastructure & Security Operations · SecOps · Linux · SIEM / Wazuh · ISO 27001</h3>
+<h3 align="center">Infrastructure & Security Operations · SecOps · Linux · SIEM / Wazuh</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SecOps-B91C1C?style=for-the-badge&logo=wazuh&logoColor=white" />
@@ -30,6 +30,8 @@ No es un laboratorio de prueba. Es **infraestructura productiva**: chica en esca
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nicolasperaltait/homelab/main/docs/img/homepage-noc.png" width="90%" alt="Tablero de operaciones" />
 </p>
+
+**En lo laboral:** operacion de infraestructura y seguridad en entornos con gestion bajo **ISO 27001**.
 
 ## Proyectos
 
