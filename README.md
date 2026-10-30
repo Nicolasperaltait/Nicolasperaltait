@@ -45,6 +45,7 @@ No es un laboratorio de prueba. Es **infraestructura productiva**: chica en esca
 | [Backups That Don't Lie](https://github.com/Nicolasperaltait/backups-that-dont-lie) | backups medidos por su contenido y restauracion probada |
 | [Hypervisor as Control Plane](https://github.com/Nicolasperaltait/hypervisor-as-control-plane) | el hipervisor operado como plataforma productiva |
 | [SecOps Governance Blueprint](https://github.com/Nicolasperaltait/secops-governance-blueprint) | SOC, SIEM, endurecimiento medido y lo que se decidio no hacer |
+| [Patch Ready by Six](https://github.com/Nicolasperaltait/patch-ready-by-six) | gestion de vulnerabilidades que decide que parchar y deja el script listo; una persona aprueba |
 
 Cada repo responde lo mismo: **cual era el problema, por que importaba, que se decidio, que salio mal y como se resolvio.**
 
